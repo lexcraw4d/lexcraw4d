@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Lexie Crawford and am an experienced Full-Stack Web Developer skilled at programming
+dynamic and versatile web applications. I am a dedicated team player that
+brings positive energy, integrity, and strong critical thinking problem solving
+skills. I have my Master of Arts in Teaching, B.S. Business Administration, and  Full-Stack Web Development Certification from the University of Texas. 
+
+### Kind Vibes ✌️
