@@ -24,9 +24,10 @@ Kind vibes!✌️
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lexcraw4d&show_icons=true&layout=compact&theme=cobalt&langs_count=8;)](https://github.com/lexcraw4d/github-readme-stats)
 /> -->
 <a href="https://github.com/lexcraw4d/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lexcraw4d&theme=cobalt" />
+</a>
+<a href="https://github.com/lexcraw4d/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lexcraw4d&show_icons=true&layout=compact&theme=cobalt&langs_count=8" />
 </a>
 
-<a href="https://github.com/lexcraw4d/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lexcraw4d&theme=cobalt" />
-</a>
+
