@@ -20,3 +20,5 @@ brings positive energy, integrity, and strong critical thinking problem solving
 skills. I have my Master of Arts in Teaching, B.S. Business Administration, and  Full-Stack Web Development Certification from the University of Texas. 
 
 ### Kind Vibes ✌️
+ 
+[![Lex's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexcraw4d)](https://github.com/lexcraw4d/github-readme-stats)
