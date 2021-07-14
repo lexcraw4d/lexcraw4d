@@ -21,4 +21,4 @@ skills. I have my Master of Arts in Teaching, B.S. Business Administration, and 
 
 ### Kind Vibes ✌️
  
-[![Lex's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexcraw4d)](https://github.com/lexcraw4d/github-readme-stats)
+[![Lex's GitHub stats](https://github-readme-stats.vercel.app/api?username=lexcraw4d&theme=cobalt)](https://github.com/lexcraw4d/github-readme-stats)
