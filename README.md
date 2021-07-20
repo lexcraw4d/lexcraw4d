@@ -16,9 +16,9 @@ c
 -->
 
 - 👩 About: 
-- Lexie Crawford 
-- South Carolina native
-- I am an experienced MERN Full-Stack Web Developer skilled at programming
+- Name: Lexie Crawford 
+- Location: South Carolina 
+- Other cool things: I am an experienced MERN Full-Stack Web Developer skilled at programming
 dynamic and versatile web applications. I am a dedicated team player that
 brings positive energy, integrity, and strong critical thinking problem solving
 skills. 
@@ -32,6 +32,8 @@ skills.
 - 😄 Pronouns: Her/She
 
 - 👩‍🎓 Education: I have my Master of Arts in Teaching, B.S. Business Administration/Management, Associates in Pharmacy Technology, and most importantly Full-Stack Web Development Certification from the University of Texas.  🤘 
+
+- ⚡ Fun facts: I have biked 100 miles in a day 🚴‍♀️. I've been skydiving. I love sports, especially college football, basketball, baseball, and golf. I love to travel and go camping. I have recently began practicing mindfulness and incorporating it in my daily routines.  I love challenges and learning new things!
 
 
 Kind vibes!✌️
