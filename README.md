@@ -15,7 +15,7 @@ c
 - ⚡ Fun fact: ...
 -->
 
-- 👩 About: 
+## 👩 About 
 - Name: Lexie Crawford 
 - Location: South Carolina 
 - Other cool things: I am an experienced MERN Full-Stack Web Developer skilled at programming
