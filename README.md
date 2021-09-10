@@ -23,7 +23,7 @@ dynamic and versatile web applications. I am a dedicated team player that
 brings positive energy, integrity, and strong critical thinking problem solving
 skills. 
 
-- 👩‍💻 Skills: Node.js, Express, MongoDB, Mongoose, React, jQuery, RESTful APIs, CLI usage, data structure, MySQL, NoSQL, content/curriculum development, alogrithms, Test Driven Data, User Authentication, Bootstrap, Bootstrap Studio, HTML, CSS, ORM, ODD, and PWA. 
+- 👩‍💻 Skills: Node.js, Express, MongoDB,RESTful APIs, GraphQL, Mongoose, React, jQuery, RESTful APIs, CLI usage, data structure, MySQL, NoSQL, content/curriculum development, alogrithms, Test Driven Data, User Authentication, Bootstrap, Bootstrap Studio, HTML, CSS, ORM, ODD, and PWA. 
 
 - 🌱 I’m currently learning: Python
 
