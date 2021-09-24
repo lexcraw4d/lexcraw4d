@@ -25,13 +25,13 @@ skills.
 
 - 👩‍💻 Skills: Node.js, Express, MongoDB,RESTful APIs, GraphQL, Mongoose, React, jQuery, RESTful APIs, CLI usage, data structure, MySQL, NoSQL, content/curriculum development, alogrithms, Test Driven Data, User Authentication, Bootstrap, Bootstrap Studio, HTML, CSS, ORM, ODD, and PWA. 
 
-- 🌱 I’m currently learning: Python
+- 🌱 I’m currently learning: Salesforce/Python
 
 - 📫 How to reach me: lexcraw4d@gmail.com - Shoot me an email and we can schedule a call if needed. 🤙
 
 - 😄 Pronouns: Her/She
 
-- 👩‍🎓 Education: I have my Master of Arts in Teaching, B.S. Business Administration/Management, Associates in Pharmacy Technology, and most importantly Full-Stack Web Development Certification from the University of Texas.  🤘 
+- 👩‍🎓 Education: I have my Master of Arts in Teaching, B.S. Business Administration/Management, Associates in Pharmacy Technology, and most importantly Full-Stack Web Development Certification (MERN) from the University of Texas.  🤘 
 
 - ⚡ Fun facts: I have biked 100 miles in a day 🚴‍♀️. I've been skydiving. I love sports, especially college football, basketball, baseball, and golf. I love to travel and go camping. I have recently began practicing mindfulness and incorporating it in my daily routines.  I love challenges and learning new things!
 
