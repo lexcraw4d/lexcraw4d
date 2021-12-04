@@ -17,15 +17,16 @@ c
 
 ## 👩 About 
 - Name: Lexie Crawford 
+- What I do: Salesforce Developer
 - Location: South Carolina 
 - Other cool things: I am an experienced MERN Full-Stack Web Developer skilled at programming
 dynamic and versatile web applications. I am a dedicated team player that
 brings positive energy, integrity, and strong critical thinking problem solving
 skills. 
 
-- 👩‍💻 Skills: Node.js, Express, MongoDB,RESTful APIs, GraphQL, Mongoose, React, jQuery, RESTful APIs, CLI usage, data structure, MySQL, NoSQL, content/curriculum development, alogrithms, Test Driven Data, User Authentication, Bootstrap, Bootstrap Studio, HTML, CSS, ORM, ODD, and PWA. 
+- 👩‍💻 Skills: Node.js, Express, MongoDB,RESTful APIs, GraphQL, Mongoose, React, jQuery, RESTful APIs, CLI usage, data structure, MySQL, NoSQL, SOQL, SOSL, Apex, content/curriculum development, alogrithms, Test Driven Data, User Authentication, Bootstrap, Bootstrap Studio, HTML, CSS, ORM, ODD, and PWA. 
 
-- 🌱 I’m currently learning: Salesforce/Python
+- 🌱 I’m currently learning: Salesforce/Apex/SOQL
 
 - 📫 How to reach me: lexcraw4d@gmail.com - Shoot me an email and we can schedule a call if needed. 🤙
 
