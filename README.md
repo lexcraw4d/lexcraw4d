@@ -24,9 +24,9 @@ dynamic and versatile web applications. I am a dedicated team player that
 brings positive energy, integrity, and strong critical thinking problem solving
 skills. 
 
-- 👩‍💻 Skills: Node.js, Express, MongoDB,RESTful APIs, GraphQL, Mongoose, React, jQuery, RESTful APIs, CLI usage, data structure, MySQL, NoSQL, SOQL, SOSL, Apex, content/curriculum development, alogrithms, Test Driven Data, User Authentication, Bootstrap, Bootstrap Studio, HTML, CSS, ORM, ODD, and PWA. 
+- 👩‍💻 Skills: Node.js, Express, MongoDB,RESTful APIs, GraphQL, Mongoose, React, jQuery, RESTful APIs, CLI usage, data structure, MySQL, NoSQL, Salesforce, SOQL, SOSL, Apex, content/curriculum development, alogrithms, Test Driven Data, User Authentication, HTML, CSS, ORM, ODD, and PWA. 
 
-- 🌱 I’m currently learning: Salesforce/Apex/SOQL
+- 🌱 I’m currently learning: Next.js
 
 - 📫 How to reach me:  ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue?link=https://www.linkedin.com/in/alexiacrawford/&link=https://www.linkedin.com/in/alexiacrawford/)
 ![Gmail Email](https://img.shields.io/badge/-lexcraw4d%40gmail.com-grey?&link=mailto:lexcraw4d@gmail.com&logo=gmail)
