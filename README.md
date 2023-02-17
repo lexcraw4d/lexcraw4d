@@ -26,7 +26,7 @@ skills.
 
 - 👩‍💻 Skills: Node.js, Express, MongoDB,RESTful APIs, GraphQL, Mongoose, React, jQuery, RESTful APIs, CLI usage, data structure, MySQL, NoSQL, Salesforce, SOQL, SOSL, Apex, content/curriculum development, alogrithms, Test Driven Data, User Authentication, HTML, CSS, ORM, ODD, and PWA. 
 
-- 🌱 I’m currently learning: Next.js
+- 🌱 I’m currently learning: SOAP APIs, Python, machine learning
 
 - 📫 How to reach me:  ![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue?link=https://www.linkedin.com/in/alexiacrawford/&link=https://www.linkedin.com/in/alexiacrawford/)
 ![Gmail Email](https://img.shields.io/badge/-lexcraw4d%40gmail.com-grey?&link=mailto:lexcraw4d@gmail.com&logo=gmail)
